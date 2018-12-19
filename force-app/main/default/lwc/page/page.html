@@ -1,0 +1,49 @@
+<template>
+    <h1>lwc-page</h1>
+    <div class={flexipageRegionWidth}>
+            {flexipageRegionWidth}
+    <c-slots>
+        <span slot="title">toast</span>
+        <span slot="body">
+            <c-toast></c-toast> 
+        </span>
+    </c-slots>             
+    <c-slots>
+        <span slot="title">apex</span>
+        <span slot="body">
+            <c-apex></c-apex> 
+        </span>
+    </c-slots>      
+    <c-slots>
+        <span slot="title">wire service</span>
+        <span slot="body">
+            <c-wire record-id="001B000000D7NopIAF"></c-wire> 
+        </span>
+    </c-slots>     
+    <c-slots if:false={standalone}>
+        <span slot="title">pubsub demo</span>
+        <span slot="body">
+            <c-pubsubleft></c-pubsubleft> ===
+            <c-pubsubright></c-pubsubright>
+        </span>
+    </c-slots>
+    <c-slots>
+        <span slot="title">navigation demo</span>
+        <span slot="body">
+            <c-nav></c-nav>
+        </span>
+    </c-slots>   
+    <c-slots>
+        <span slot="title">lightning record form</span>
+        <span slot="body">
+            <c-lrf record-id="001B000000D7NopIAF"></c-lrf>
+        </span>
+    </c-slots>   
+    <c-slots>
+        <span slot="title">lightning record view form</span>
+        <span slot="body">
+            <c-lrvf record-id="001B000000D7NopIAF"></c-lrvf> 
+        </span>
+    </c-slots>   
+    </div>
+</template>

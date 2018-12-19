@@ -1,0 +1,152 @@
+[
+    [
+        "/Users/sohalloran/Documents/workspace/lcf/MyLWC/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/sohalloran/Documents/workspace/lcf/MyLWC/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1543493652437,
+            "changeTime": 1543493652437,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/sohalloran/Documents/workspace/lcf/MyLWC/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/sohalloran/Documents/workspace/lcf/MyLWC/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1543493652437,
+            "changeTime": 1543493652437,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/sohalloran/Documents/workspace/lcf/MyLWC/force-app/main/default",
+        {
+            "state": "n",
+            "sourcePath": "/Users/sohalloran/Documents/workspace/lcf/MyLWC/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1543493930444,
+            "changeTime": 1543493930444,
+            "contentHash": "305fd2dd212dbe4f47bfb2b2d54e6fa336d977bc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/sohalloran/Documents/workspace/lcf/MyLWC/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/sohalloran/Documents/workspace/lcf/MyLWC/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1543493652437,
+            "changeTime": 1543493652437,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/sohalloran/Documents/workspace/lcf/MyLWC/force-app/main/default/lightningcomponents",
+        {
+            "state": "n",
+            "sourcePath": "/Users/sohalloran/Documents/workspace/lcf/MyLWC/force-app/main/default/lightningcomponents",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1543494191193,
+            "changeTime": 1543494191193,
+            "contentHash": "ec3baa78368ecbbb59d3965dd4e6e2ed5611a22e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/sohalloran/Documents/workspace/lcf/MyLWC/force-app/main/default/lightningcomponents/myComponent",
+        {
+            "state": "n",
+            "sourcePath": "/Users/sohalloran/Documents/workspace/lcf/MyLWC/force-app/main/default/lightningcomponents/myComponent",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1543494191194,
+            "changeTime": 1543494191194,
+            "contentHash": "515035cf48c2009eb669310bbc56778a7f0033e1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/sohalloran/Documents/workspace/lcf/MyLWC/force-app/main/default/lightningcomponents/myComponent/myComponent.html",
+        {
+            "state": "n",
+            "sourcePath": "/Users/sohalloran/Documents/workspace/lcf/MyLWC/force-app/main/default/lightningcomponents/myComponent/myComponent.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 49,
+            "modifiedTime": 1543494219753,
+            "changeTime": 1543494219753,
+            "contentHash": "3bea3d50dccd2201ef16b234a9275c78d8b015ca",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/sohalloran/Documents/workspace/lcf/MyLWC/force-app/main/default/lightningcomponents/myComponent/myComponent.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/sohalloran/Documents/workspace/lcf/MyLWC/force-app/main/default/lightningcomponents/myComponent/myComponent.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 86,
+            "modifiedTime": 1543494191193,
+            "changeTime": 1543494191193,
+            "contentHash": "0d33db3c4651adca0dbee83658d30049aef7535b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/sohalloran/Documents/workspace/lcf/MyLWC/force-app/main/default/lightningcomponents/myComponent/myComponent.js-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/sohalloran/Documents/workspace/lcf/MyLWC/force-app/main/default/lightningcomponents/myComponent/myComponent.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 225,
+            "modifiedTime": 1543494191193,
+            "changeTime": 1543494191193,
+            "contentHash": "c904a4f70e9ba96b3cd2d1967ddc8b495b52bd0f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/sohalloran/Documents/workspace/lcf/MyLWC",
+        {
+            "state": "n",
+            "sourcePath": "/Users/sohalloran/Documents/workspace/lcf/MyLWC",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 256,
+            "modifiedTime": 1543493765614,
+            "changeTime": 1543493765614,
+            "contentHash": "07da07834d8f50a1018cf646c911906296572a7c",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]

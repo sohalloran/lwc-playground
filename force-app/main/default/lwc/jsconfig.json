@@ -1,0 +1,51 @@
+{
+    "compilerOptions": {
+        "experimentalDecorators": true,
+        "baseUrl": ".",
+        "paths": {
+            "c/apex": [
+                "apex/apex.js"
+            ],
+            "c/easytest": [
+                "easytest/easytest.js"
+            ],
+            "c/hello": [
+                "hello/hello.js"
+            ],
+            "c/lrf": [
+                "lrf/lrf.js"
+            ],
+            "c/lrvf": [
+                "lrvf/lrvf.js"
+            ],
+            "c/nav": [
+                "nav/nav.js"
+            ],
+            "c/page": [
+                "page/page.js"
+            ],
+            "c/pubsub": [
+                "pubsub/pubsub.js"
+            ],
+            "c/pubsubleft": [
+                "pubsubleft/pubsubleft.js"
+            ],
+            "c/pubsubright": [
+                "pubsubright/pubsubright.js"
+            ],
+            "c/slots": [
+                "slots/slots.js"
+            ],
+            "c/toast": [
+                "toast/toast.js"
+            ],
+            "c/wire": [
+                "wire/wire.js"
+            ]
+        }
+    },
+    "include": [
+        "**/*",
+        "../../../../.sfdx/typings/lwc/**/*.d.ts"
+    ]
+}

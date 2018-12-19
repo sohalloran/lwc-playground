@@ -1,0 +1,20 @@
+<template>
+    <h1>hello</h1>
+    Hello World from my first LWC Component!!!!!!!
+    
+    | {aId} | {userId} | 
+
+    <template if:true={record.error}>
+        <p>An error occured while fetching the record with ID: {recordId}</p>
+        <p>Error Message: <code>{record.error.message}</code></p>
+        <p>Error Code: <code>{record.error.errorCode}</code></p>
+        <p>Error Status Code: <code>{record.error.statusCode}</code></p>
+    </template>
+
+    <template if:true={record.data}>
+        <p>Record Name: {record.data.fields.Name.value}</p>
+        <p>Record ID: {recordId} {aId}</p>
+    </template>
+    <hr>
+        
+</template>

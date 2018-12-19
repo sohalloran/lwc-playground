@@ -1,0 +1,17 @@
+<template>
+    <template if:true={accounts.data}>
+    <ul>
+    <template for:each={accounts.data} for:item="acc">
+        <li key={acc.Id}>{acc.Name}</li>
+    </template>
+    </ul><br/>
+    <ol>
+    <template iterator:a={accounts.data}>
+        <li key={a.value.Id}>{a.value.Name}</li>
+    </template>
+    </ol>    
+    </template>
+    <template if:true={accounts.error}>
+            {accounts.error}
+    </template>   
+</template>
