@@ -41,6 +41,9 @@
             ],
             "c/wire": [
                 "wire/wire.js"
+            ],
+            "c/account": [
+                "account/account.js"
             ]
         }
     },

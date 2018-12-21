@@ -2,7 +2,9 @@
     <template if:true={accounts.data}>
     <ul>
     <template for:each={accounts.data} for:item="acc">
-        <li key={acc.Id}>{acc.Name}</li>
+        <li key={acc.Id}>
+            <c-wire record-id={acc.Id}></c-wire>
+        </li>
     </template>
     </ul><br/>
     <ol>

@@ -1,0 +1,13 @@
+<template>
+    Accounts<br/>
+    Name:
+    <lightning-input onchange={handleFormChange} value="" data-field-name="Name" label="Name" type="string"></lightning-input>
+    <button onclick={add}>Add</button>
+    <hr>
+    <template for:each={accounts} for:item="acc">
+            <li key={acc.Id}>
+                {acc.Name} : 
+                <a href="" onclick={del} data-key={acc.Id}>del</a> 
+            </li>
+    </template>   
+</template>
